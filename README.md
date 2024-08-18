@@ -59,5 +59,5 @@
    pip install <the_used_packages>
 
 8. Access the Application:
-   Open your browser and go to http://localhost:5173(or your desired port) to interact with the application.
+   Open your browser and go to http://localhost:5173 (or your desired port) to interact with the application.
 
