@@ -61,5 +61,3 @@
 8. Access the Application:
    Open your browser and go to http://localhost:5173(or your desired port) to interact with the application.
 
-### License
-This project is licensed under the MIT License.
