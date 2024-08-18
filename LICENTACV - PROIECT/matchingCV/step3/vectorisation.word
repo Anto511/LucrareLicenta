@@ -1,0 +1,29 @@
+The provided Python code defines two classes for vectorizing text data: `MyCountVectorizer` and `MyTfIdfVectorizer`. These are custom implementations similar to those found in libraries like `scikit-learn`, but tailored for educational or specific use-cases. Here's an explanation of each class and their functions, aligned with machine learning logic for processing and transforming text data into numerical formats that can be used for further analysis or machine learning models.
+
+### `MyCountVectorizer`
+This class is designed to convert a collection of text documents into a matrix of token counts, which is a fundamental step in many natural language processing (NLP) and machine learning pipelines.
+
+**Key Methods:**
+- **`__init__`**: Initializes the vectorizer with the documents.
+- **`normalize_corpus`**: Cleans and prepares the text data. It removes punctuation, converts text to lowercase, and handles non-string data (like converting NaN values to empty strings). This is important for maintaining consistency in the data and avoiding errors during the analysis.
+- **`make_features`**: Extracts and stores all unique words from the cleaned text documents excluding stopwords (common words like "and", "the", etc., that are typically ignored in text analysis). This results in a vocabulary of features (words) used for building the feature matrix.
+- **`make_matrix`**: Creates a matrix where each row represents a document and each column represents a term from the feature set. Each element in the matrix is the term frequency, which is the count of how many times a term appears in a document.
+- **`term_freq`**: A helper function to count the frequency of a term in a document.
+- **`print_matrix`, `get_matrix`, `get_features`, `get_density`**: Utility functions to interact with the matrix, retrieve it, print it, get the list of all features, and calculate the density of the matrix (the proportion of non-zero values, which can be useful for understanding the sparsity of the data).
+
+### `MyTfIdfVectorizer`
+This class extends `MyCountVectorizer` and modifies the matrix to use TF-IDF (Term Frequency-Inverse Document Frequency) values instead of raw counts. TF-IDF is a statistical measure used to evaluate how important a word is to a document in a collection or corpus. It increases proportionally with the number of times a word appears in the document but is offset by the frequency of the word in the corpus, which helps to adjust for the fact that some words appear more frequently in general.
+
+**Key Methods:**
+- **`make_matrix`**: Overrides the `make_matrix` method from `MyCountVectorizer` to create a matrix where each element is the TF-IDF value instead of the term frequency. It calculates the TF-IDF score for each term in each document, normalizes the document vectors to have a unit norm (which helps with comparison and performance in many machine learning algorithms).
+- **`inverse_document_freq`**: Calculates the inverse document frequency for a term. It is a measure of how much information the word provides, i.e., if it's common or rare across all documents. The formula used is the logarithmically scaled fraction of the total number of documents divided by the number of documents that contain the term.
+
+**TF-IDF Calculation Logic**:
+- **TF (Term Frequency)**: The number of times a term appears in a document. This is normalized by dividing by the total number of terms in the document in some implementations (not explicitly here but normalized after calculating TF-IDF).
+- **IDF (Inverse Document Frequency)**: Calculates how important a term is. While computing TF, all terms are considered equally important. However, certain terms, like "is", "of", and "that", may appear many times but have little importance. Thus, we need to weigh down the frequent terms while scaling up the rare ones. This is done by the formula:
+  
+  \[
+  \text{IDF}(t) = \log \left(\frac{\text{Total number of documents}}{\text{Number of documents with term } t}\right)
+  \]
+
+By combining these methodologies, these vectorizers transform text into a numerical format that can be fed into various machine learning algorithms, enhancing the capability to perform tasks like classification, clustering, and similarity searches effectively.

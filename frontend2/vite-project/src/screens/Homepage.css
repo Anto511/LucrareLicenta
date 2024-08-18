@@ -1,0 +1,253 @@
+.homepage {
+    position: relative;
+    overflow: hidden;
+}
+
+.bg-image {
+    background: url('../assets/5073198.jpg') no-repeat center center fixed;
+    background-size: cover;
+    transition: filter 0.3s ease;
+}
+
+.bg-image.blur {
+    filter: blur(5px);
+}
+
+h1 {
+    color: white;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: rgba(31, 28, 44, 0.8);
+    z-index: 10;
+}
+
+.header-logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+.header-nav {
+    display: flex;
+    gap: 1.5rem;
+}
+
+.nav-link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+.text-white {
+    color: #fff !important;
+}
+
+.display-5 {
+    font-size: 2.5rem;
+}
+
+.lead {
+    font-size: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    color: #b0b0b0;
+}
+
+.btn-upload {
+    background-color: #1abc9c;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    font-size: 1.25rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.btn-upload:hover {
+    background-color: #45a29e;
+}
+
+.upload-card {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 16px;
+    padding: 40px;
+    width: 100%;
+    max-width: 1200px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    border: 2px solid #00f;
+    margin-top: 2rem;
+}
+
+.upload-area {
+    border: 2px dashed #ced4da;
+    border-radius: 16px;
+    padding: 50px;
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.2);
+    text-align: center;
+    color: #b0b0b0;
+    height: 200px;
+    width: 100%;
+}
+
+.form-control-file {
+    display: none;
+}
+
+.upload-label {
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-top: 25px;
+    line-height: 50px;
+    cursor: pointer;
+    color: #fff;
+    font-size: 1.8rem;
+}
+
+.upload-label:hover {
+    color: #ddd;
+}
+
+.progress {
+    width: 100%;
+    height: 20px;
+    background-color: #e9ecef;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-top: 15px;
+}
+
+.progress-bar {
+    height: 100%;
+    background-color: #007bff;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+
+.overlay-content {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    z-index: 1001;
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+}
+
+body,
+html {
+    height: 100%;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding-top: 15rem;
+    padding-bottom: 2rem;
+}
+
+body.overlay-active {
+    overflow: hidden;
+}
+
+.footer {
+    background: #222;
+    color: #fff;
+    padding: 1rem 2rem;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.footer-link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 991px) {
+    .header {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 1rem;
+    }
+
+    .header-logo {
+        margin-bottom: 1rem;
+    }
+
+    .header-nav {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .display-5 {
+        font-size: 2rem;
+        text-align: center;
+    }
+
+    .lead {
+        font-size: 0.875rem;
+        text-align: center;
+    }
+
+    .upload-card {
+        padding: 20px;
+    }
+
+    .upload-area {
+        padding: 20px;
+        height: auto;
+    }
+
+    .upload-label {
+        font-size: 1.2rem;
+    }
+
+    .content {
+        padding-top: 20rem;
+        padding-bottom: 1rem;
+    }
+}

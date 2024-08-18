@@ -1,0 +1,74 @@
+.table-container {
+    padding: 20px;
+    overflow-x: auto;
+}
+
+table {
+    width: 60%;
+    border-collapse: collapse;
+    color: #fff;
+    font-size: 1.5em;
+    margin: 0 auto;
+}
+
+th,
+td {
+    padding: 17px;
+    text-align: left;
+}
+
+th {
+    background-color: #1a1a3c;
+    font-size: 1.6em;
+}
+
+tr:nth-child(even) {
+    background-color: #1a1a3c;
+}
+
+a {
+    color: #1e90ff;
+    text-decoration: none;
+}
+
+.url-cell a {
+    font-size: 20px;
+    color: #0a58ca;
+    text-decoration: none;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.noresultscase {
+    margin: 0 auto;
+    margin-left: 60px;
+    color: white;
+    font-size: 20px;
+}
+
+@media screen and (max-width: 768px) {
+    table {
+        font-size: 1em;
+    }
+
+    th,
+    td {
+        padding: 10px;
+    }
+
+    th {
+        font-size: 2.5em;
+    }
+
+    a {
+        font-size: 1.2em;
+    }
+
+    .table-container {
+        overflow-x: auto;
+    }
+}

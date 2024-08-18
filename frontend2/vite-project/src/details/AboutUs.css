@@ -1,0 +1,157 @@
+.about-us {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 16px;
+    max-width: 100%;
+    color: #333;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    font-family: 'Arial', sans-serif;
+}
+
+.bigTitle {
+    color: #fff;
+    font-size: 4rem;
+    text-align: left;
+    margin-left: 200px;
+    margin-bottom: 2rem;
+}
+
+.section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+}
+
+.section.reverse {
+    flex-direction: row-reverse;
+}
+
+.text,
+.image {
+    flex: 1;
+    max-width: 50%;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.text {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.image img {
+    width: 100%;
+    max-width: 900px;
+    border-radius: 8px;
+    display: block;
+    margin: 0 auto;
+}
+
+h3 {
+    font-size: 1.75rem;
+    color: #333;
+    margin-bottom: 1rem;
+}
+
+p,
+li {
+    font-size: 1.25rem;
+    line-height: 1.5;
+    color: #b0b0b0;
+}
+
+ol,
+ul {
+    padding-left: 1.5rem;
+}
+
+li {
+    margin-bottom: 1rem;
+}
+
+.titles {
+    color: #fff;
+}
+
+@media (max-width: 768px) {
+    .bigTitle {
+        font-size: 2rem;
+        padding-left: 0;
+    }
+
+    .section {
+        flex-direction: column;
+        text-align: left;
+    }
+
+    .text,
+    .image {
+        max-width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .text {
+        padding: 20px 10px;
+    }
+
+    .section:nth-of-type(2) .image,
+    .section:nth-of-type(3) .image {
+        display: none;
+    }
+
+    h3 {
+        font-size: 1.5rem;
+    }
+
+    p,
+    li {
+        font-size: 1rem;
+    }
+
+
+}
+
+@media (min-width: 769px) and (max-width: 1824px) {
+    .bigTitle {
+        font-size: 3rem;
+        margin-left: 100px;
+    }
+
+    .section {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .text,
+    .image {
+        max-width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .text {
+        padding: 40px 20px;
+    }
+
+    .image img {
+        max-width: 700px;
+    }
+
+    .section:nth-of-type(1) .image,
+    .section:nth-of-type(2) .image {
+        display: none;
+    }
+
+    h3 {
+        font-size: 1.5rem;
+    }
+
+    p,
+    li {
+        font-size: 1.1rem;
+        text-align: justify;
+    }
+}

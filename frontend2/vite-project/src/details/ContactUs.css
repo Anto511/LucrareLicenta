@@ -1,0 +1,269 @@
+.contact-and-testimonials {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-color: rgba(255, 255, 255, 0.1);
+    width: 100%;
+    padding: 60px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.contact-us-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-color: rgba(255, 255, 255, 0.1);
+    width: 50%;
+    border: 2px solid #00f;
+    padding: 20px;
+}
+
+h2 {
+    color: #fff;
+}
+
+.btn-primary {
+    background-color: #1abc9c;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    font-size: 1.25rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.btn-primary:hover {
+    background-color: #45a29e;
+}
+
+.contact-form {
+    max-width: 600px;
+    padding-left: 30px;
+    width: 100%;
+}
+
+.contact-form h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.contact-form .input-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    background-color: #eaf3f9;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.contact-form .input-group .icon {
+    margin-right: 10px;
+    color: #6c757d;
+}
+
+.contact-form .input-group input,
+.contact-form .input-group textarea {
+    border: none;
+    background: none;
+    outline: none;
+    width: 100%;
+    padding: 10px;
+    font-size: 1em;
+    color: #333;
+}
+
+.contact-form .input-group textarea {
+    height: 150px;
+}
+
+.contact-form button {
+    width: 100%;
+    padding: 0.75rem 1.5rem;
+    background-color: #1abc9c;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.25rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 10px;
+}
+
+.contact-form button:hover {
+    background-color: #45a29e;
+}
+
+.contact-image img {
+    max-width: 100%;
+    padding-top: 20px;
+    height: auto;
+}
+
+.contact-form h2 {
+    color: #fff;
+    font-size: 4rem;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.animation-container {
+    width: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 440px;
+    margin-top: 150px;
+    margin-right: 100px;
+
+}
+
+.animation-image {
+    max-width: 100%;
+    height: auto;
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.1);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+.testimonials {
+    max-width: 45%;
+    padding: 30px;
+    width: 100%;
+    border-radius: 10px;
+    padding-left: 200px;
+}
+
+.testimonials h2 {
+    color: #fff;
+    font-size: 3rem;
+    padding-bottom: 20px;
+}
+
+.testimonial {
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.testimonial p {
+    margin: 0;
+}
+
+@media (max-width: 768px) {
+    .contact-and-testimonials {
+        padding: 20px;
+    }
+
+    .contact-us-container {
+        padding: 40px;
+    }
+
+    .contact-form {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .animation-container {
+        margin-top: 20px;
+    }
+
+    .testimonials {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+@media (min-width: 1400px) and (max-width: 2600px) {
+    .animation-container {
+        display: none;
+    }
+
+    .contact-us-container {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 60px;
+        width: 60%;
+        margin: 0 auto;
+        margin-right: 10%;
+
+    }
+
+    .contact-form {
+        padding: 0 0;
+    }
+
+    .testimonials {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1400px) {
+    .contact-and-testimonials {
+        padding: 40px;
+        flex-direction: column;
+    }
+
+    .contact-us-container {
+        width: 100%;
+        padding: 30px;
+        border: none;
+    }
+
+    .contact-form {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .animation-container {
+        margin-top: 50px;
+        margin-right: 0;
+        width: 100%;
+    }
+
+    .testimonials {
+        max-width: 100%;
+        padding: 30px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .testimonials h2 {
+        font-size: 2rem;
+    }
+
+    .testimonial {
+        padding: 15px;
+        margin-bottom: 10px;
+    }
+
+    .btn-primary {
+        font-size: 1rem;
+    }
+
+    .contact-form h2 {
+        font-size: 2rem;
+    }
+
+    .animation-image {
+        margin-top: 10%;
+        max-width: 80%;
+    }
+}

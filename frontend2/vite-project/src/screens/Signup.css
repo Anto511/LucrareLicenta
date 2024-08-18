@@ -1,0 +1,27 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+}
+
+.loginPage {
+    max-height: 100vh;
+    overflow-y: auto;
+    background: url('..\assets\loginBackground.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.loginForm {
+    background-color: rgba(212, 231, 235, 0.144);
+    color: white;
+
+}
+
+.bg-custom-blue {
+    background-color: rgb(0, 36, 84)
+}
+
+ul li :hover {
+    background-color: rgba(128, 128, 128, 0.795);
+}

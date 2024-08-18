@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "licenta-422012",
+  "private_key_id": "82a329531d0c42bdce7a4bef136fefedaf9bb8a3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCurnFb1Ehc6gOA\nVFJzhR3xIkob7qddaTAwi3d1kUZ5RuYFqP6RActRePpPdZP/Thg8tpOJmEYTnRDH\nfGwB9kinGK/oJPy/TLDgxLwI7c4uHXO7sASRbFXUXQ4SMRPm8YBpZxKt5VJ5edij\nzzPrNQ3cVwpBxTN/GaI8ipNBIt6kVPdPhrpMXUFjgwdkBPNNm3jiLlhVDhQImuem\nzjz9C3ozfksoSsIwZ6LZJXS7V9SMkaEqmN8J1uBbeCZUNO8Dmg3S1FPsN2U4iOxk\n7R03n+9G9UwgG1obSupqnGQyhlp8klilE07nmLcKSxadraFL8klqWdl1MTFbW8d+\noPMHWTZ1AgMBAAECggEABJfXKLo7/d90YJ02/s0fBK5pYvMjSPhBWWFtbnS3tOwp\nk7gGG5N/wGBtOoYlslagGgaV+g38N7tPS+OIZoPOlMA4LeM9Fx2h4AMkS5rPK1TA\nbIy8DgPafOdGfbF3K8EpZnwcmGB5ivKqgOIrpBFk0CikvyZ7jGnE45EkPpf3YTxE\nlnnYuLL4l6jaX5wMiZR9R/CwH7DLSbUkdyUGVgC0mv1DBYn8/mxTNh5SNLUi+Npv\noKP8/wyYkqYGnxNvGpJDt7UTXdbqeHVphO23ybw5pcMAgPX1X3V+rQQhooDvBn+p\n8LqeHYuhKFD6Rtzo5fRoBAyRA93pWZPbPdryo5kcuQKBgQDUwOap3d70I6gPmSGz\nk04WjRBePeZfBEdQ6qNovUM2+39NUGSE+YWko2Rdtr3SFCtw1sJrKdJgykApVqU6\nE6spdbka3gECBPexBLjQRlLCzNFDGlOwtElGgJTz/Yv4zTdZ21WvIIQF6WE9zA7p\nOFfJsHJASscUOK+RiKrw1SzIiQKBgQDSMGA61nROHxHRSOmKbrhdjVAt9GezdPFU\ngq1pxGZiiQQm/GfZi89KwxnXZPbBqf5Zw2xv7skFO1agBCByyqpAzqJcdjJ6niML\nHlvIzvuiNchWIQIuOWHPg42/hByCFJGPy41Kx3P19JYfHBfnAOCVuBwafnij4LhY\nUfatjJHrjQKBgQDUSg9f3EYGMjYWKmSYfRnkIqn8f6OJmAlZUmfvsTqKeHVUPi2v\nChQybd9OK3RJVVrrYz/oEnkbn3RaS1zfEJUv74nepzs2OqK0/dMz75fRTPJaFMEB\nh0O+l7sJoyux/YOHo/Zhov5Zr8AaG62dRV1DoU6/nF39bXqyqz52xR/EkQKBgDMd\ntKlachp1j923v6P83TVTIoaqg3WvIOmOhiHMs6GO9MWOaKsNRzJFVEl/skrSzpqB\n3iMyjQyKq7xqhIGmK9Vq6y1VSV1si9UuYt/pBmUic0AO8vrO1ayjr5s9w7kWy3eO\n5yOicd8ExmV2bZGuMu/2QE9pJmmkQvCnrjfykaIZAoGAO6OY4m0+/l9swmim2Wsl\nJSmPqUNTGvcuLGf1/lDUgYrYW2UOp0/NLEP5wReZwh3ldykw0I7aAMS9PKpZqf/U\ni3eDMIQFHHIASg7Nk0Z8HtmAls9I8VssO75hM+LzCkrwdafM7If8ftqTigcMF9aA\npTzyUPxprKqTvzenZ+kKOL4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "antonia-nitu@licenta-422012.iam.gserviceaccount.com",
+  "client_id": "105119540361159550978",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/antonia-nitu%40licenta-422012.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

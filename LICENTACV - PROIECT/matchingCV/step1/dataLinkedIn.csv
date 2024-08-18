@@ -1,0 +1,261 @@
+ID,title,url,company,location,description
+0, Software Engineer, https://ro.linkedin.com/jobs/view/software-engineer-at-microsoft-3963960686?position=1&pageNum=0&refId=xRWY5%2FyVZaJ7%2BE6cABrdsw%3D%3D&trackingId=Vg44%2FhEYugy8iajND9%2Fk4Q%3D%3D&trk=public_jobs_jserp-result_search-card, Microsoft," Bucharest, Bucharest, Romania"," does thinking at hyper scale excite you? do you love systems design and virtualization technology? do you enjoy contributing to and working in a healthy, diverse, and inclusive work environment? do you like driving new initiatives in a fast-paced organization exploding with growth? if so, then the azure compute hardware platform innovation team is the place for you.
+
+as a software engineer in azure compute, you will define and validate the hardware and virtualization technologies that provide computational capabilities for azure. you will work with partners and customers to deliver innovative solutions and find ways to improve efficiency. this opportunity will allow you to impact millions of users, accelerate your career growth, and constantly learn and wear many hats as you iteratively deliver value to customers.
+
+you will directly contribute to the architecture of new systems as part of the core azure infrastructure, including hardware platforms and virtualization. you will learn about the challenges that affect operations at a global scale and help design and optimize the next generation microsoft azure offerings. you will also learn what it takes to support new business models, applications, and operating models as we bring new customers and partners into the microsoft azure ecosystem.
+
+microsoft’s mission is to empower every person and every organization on the planet to achieve more. as employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+responsibilities
+
+works with appropriate stakeholders to determine user requirements for a feature.
+supports identification of dependencies, and the development of design documents for a product feature with oversight.
+characterizes the performance of hardware components and platforms, and optimizes systems for performance, cost savings, and reliability.
+builds and improves automation to aid in performance characterization, lab and scale testing, and onboarding of new hardware platforms.
+with guidance, learns to create and implement code for a product, service, or feature reusing code as applicable. assists and learns about breaking down work items into tasks and provides estimation.
+acts as a designated responsible individual (dri) in monitoring system/product feature/service for degradation, downtime, or interruptions for simple problems, and recommends actions to restore system/product/service by following the playbook.
+reviews current developments and proactively seeks new knowledge that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale.
+
+qualifications
+
+required qualifications:
+
+bachelor's degree in computer science, or related technical discipline with proven experience coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or equivalent experience.
+other qualifications
+
+microsoft cloud background check: this position will be required to pass the microsoft cloud background check upon hire/transfer and every two years thereafter.
+
+preferred qualifications
+
+bachelor's degree in computer science
+or related technical field and technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript or python
+or master's degree in computer science or related technical field with proven experience coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or equivalent experience.
+#azurecorejobs
+
+microsoft is an equal opportunity employer. consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. if you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations."
+1, Software Engineer, https://ro.linkedin.com/jobs/view/software-engineer-at-microsoft-3954890111?position=2&pageNum=0&refId=xRWY5%2FyVZaJ7%2BE6cABrdsw%3D%3D&trackingId=kczcCF%2FZtkJZzdUVbjqLXg%3D%3D&trk=public_jobs_jserp-result_search-card, Microsoft," Bucharest, Bucharest, Romania"," have you ever imagined the world with an infinite amount of storage available and accessible to everyone? a place where everyone in the world can easily access their books/ music/ photos/ video/ any data from anywhere at any time via any means (e.g. mobile phones, tablets, pcs, smart devices, etc). did you ever desire a universally accessible storage system to record all the knowledge known to mankind, to keep all the books/music/videos ever created, or to store all the data collected from all the scientists in the world for them to collaborate upon? do you want to be part of a team that strives to bring these to reality? if so, the microsoft azure storage team is what you are looking for. we are building microsoft’s cloud storage solution - microsoft azure storage, which is a massively scalable, highly distributed, ubiquitously accessible storage system, designed to scale out and serve the entire world. we continue to have tremendous hockey stick growth, we have many exabyte’s of data stored, and are designing and building systems for zettabyte scale to support demand growth for the coming years.
+
+as a software engineer, you will be solving challenges related to durability, availability and concurrency for a distributed system. this opportunity will all you to make high impact changes daily as you build a hyper scale storage system that may indirectly or directly be used daily by your friends and family.
+
+microsoft’s mission is to empower every person and every organization on the planet to achieve more. as employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+responsibilities
+
+works with appropriate stakeholders to determine user requirements for a set of features.
+contributes to the identification of dependencies, and the development of design documents for a product area with little oversight.
+creates and implements code for a product, service, or feature, reusing code as applicable.
+contributes to efforts to break down larger work items into smaller work items and provides estimation.
+acts as a designated responsible individual (dri) working on-call to monitor system/product feature/service for degradation, downtime, or interruptions and gains approval to restore system/product/service for simple problems.
+remains current in skills by investing time and effort into staying abreast of current developments that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale.
+
+qualifications
+
+required qualifications:
+
+bachelor's degree in computer science or related technical field and technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+
+preferred qualifications
+
+bachelor's degree in computer science or related technical field and technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or master's degree in computer science or related technical field and technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+experience and/or subject matter expertise with any of the following:
+multi-threaded/parallel programming
+storage or file systems
+networking and network security
+demonstrated excellence in:
+software engineering and coding practices
+data structures and algorithms
+testing, debugging and analytical skills
+demonstrated ability to plan, schedule and deliver reliable and performant software
+
+microsoft is an equal opportunity employer. consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. if you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations."
+2, Software Engineer, https://ro.linkedin.com/jobs/view/software-engineer-at-microsoft-3908308912?position=3&pageNum=0&refId=xRWY5%2FyVZaJ7%2BE6cABrdsw%3D%3D&trackingId=P%2FLO32ZXwObVk%2BEw2cxKEQ%3D%3D&trk=public_jobs_jserp-result_search-card, Microsoft," Bucharest, Bucharest, Romania"," the azure core organization has got multiple positions open for software engineers across different teams in microsoft development center in romania.
+
+azure is the fastest-growing business in microsoft’s history and is the foundation of microsoft’s commercial cloud services. the azure core team builds and manages the core platform across compute, storage, and networking services. we have an exciting opportunity for you to innovate and shape the world’s computers, and we encourage you to apply and learn more!
+
+please note: relocation expenses will not be covered as part of this role.
+
+responsibilities
+
+we are looking for talented early to mid-career software engineers to help us deliver highly scalable services and world-class product experiences. we value people who can bring a diverse perspective to our products and where a developer will not just write code but will have a real meaningful impact on the direction of the products and which features to build. in order to achieve this you will:
+
+design, develop, test and support features, experiences and solutions for highly scalable services
+develop high quality secure and compliant solutions
+support highly available services used by millions of users on a daily basis
+analyze how your features are performing in production to learn and make the product better
+pair and participate in code reviews with other engineers in your team
+
+qualifications
+
+required qualifications:
+
+experience developing production software
+experience with one or more oop languages including but not limited to: c#, java, c/c++,  python
+good system design, algorithmic skills, good knowledge of data structures
+solid debugging, testing, and problem-solving skills
+strong written and verbal communication skills
+ability to work cross team and collaborate with others
+
+preferred qualifications
+
+degree in computer science, mathematics, engineering or related fields
+experience designing, building and running large scale and highly available cloud services or distributed systems
+general database knowledge and experience of working with data at high scale
+troubleshooting skills across network, application, caching, queuing, load-balancing storage and distributed services layers
+knowledge of azure cloud, power platform, or dynamics 365
+engineering expertise in developing and owning kubernetes applications
+passion for high-availability, automation, performance and building highly available distributed systems at scale
+practice of modern software engineering, including coding standards, code reviews, source control management, build processes, testing, and releasing
+
+note that we are hiring a large number of software engineers. some of this hires will ideally have knowledge in the areas below. this is not required for all.
+
+experience leading end-to-end engineering efforts, from prototyping to final product release
+experience with cloud-based data platforms such as azure, databricks, or snowflake
+experience with distributed computing frameworks such as hadoop, spark, or flink
+proven track of delivering quantifiable business impact through software development and data engineering projects.
+
+may include: ability to meet microsoft, customer and/or government security screening requirements are required for this role. these requirements include, but are not limited to the following specialized security screenings:
+
+microsoft cloud background check: this position will be required to pass the microsoft cloud background check upon hire/transfer and every two years thereafter.
+
+#azurecorejobs
+
+microsoft is an equal opportunity employer. consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. if you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations."
+3, Software Engineer, https://ro.linkedin.com/jobs/view/software-engineer-at-vois-3954558906?position=4&pageNum=0&refId=xRWY5%2FyVZaJ7%2BE6cABrdsw%3D%3D&trackingId=%2BA0%2FWCrU47YC9b5WOfc3qQ%3D%3D&trk=public_jobs_jserp-result_search-card, _VOIS," Bucharest, Bucharest, Romania"," your day to day:
+as a senior javascript/typescript engineer, you will play key roles in multiple projects, from tackling the most complex coding activities to mentoring junior team members. your expertise will be critical in the development of web applications that service the deployment and management of the entire vodafone infrastructure. your clean coding skills will enable you to create novel functionality and solve complicated issues. your high-quality work will serve as a powerful example for the other project members, who will look to you for guidance, best-practices and technical leadership.
+
+with these activities you will have a great impact on our business:
+develop well-structure code following company standards
+document enhancements made and system changes
+ability to excel in a distributed team model environment and work on multiple projects simultaneously
+ability to set up and develop project teams
+provide input to impact analysis on other systems
+coordinate the code development and delivery process based on requirements, considering all the aspects of product development life cycle
+provide accurate estimates (time & effort) for upcoming features based on specifications
+handle 3rd level of support for the applications developed
+
+with these skills you are a great candidate:
+high proficiency in javascript and typescript, specifically node.js and react.js
+good understanding of front-end technologies, such as html5 and css3
+experience with microservices architecture and patterns
+understanding the nature of asynchronous programming and its quirks and workarounds (rabbitmq)
+experience with sql (oracle sql) and nosql databases (redis)
+
+sounds like the perfect job? we’ve got even more to offer:
+work from home – hybrid approach
+medical and dental services
+life and hospitalization insurance
+dedicated employee phone subscription
+special discounts for gyms and retailers
+annual company bonus
+ongoing education – we continuously invest in you to ensure you have everything needed to excel on the job and enhance your skills
+you get to work with tried and trusted web-technology
+getting in on the ground floor of a technology changing company
+flexible vacation – take time off when you need it, we trust you
+special paternal program - 4 months of paid paternity leave
+
+we recognize and celebrate the importance of diversity and inclusivity in our workplace so that we are as diverse as the customers and communities we serve. we do not tolerate any form of discrimination especially related to but not limited to race, colour, age, veteran status, gender identification, sexual orientation, pregnancy, ethnicity, disability, religion, political affiliation, trade union membership, nationality, indigenous status, medical condition, hiv status, social origin, cultural background, social or marital status.
+
+worried that you don’t meet all the desired criteria exactly? we are passionate about inclusion for all and creating a workplace where everyone can thrive, whatever their personal or professional background. so, if you’re excited about this role but your experience doesn’t align exactly with every part of the job advert, we encourage you to apply as you may be just the right candidate for this role or another role, and our recruitment team can help see how your skills fit in.
+
+#_vois"
+4, Fullstack Developer (Node.JS & React), https://ro.linkedin.com/jobs/view/fullstack-developer-node-js-react-at-mindpal-3706084190?position=5&pageNum=0&refId=xRWY5%2FyVZaJ7%2BE6cABrdsw%3D%3D&trackingId=%2BEN9csCyG8o3h65JuWkIDg%3D%3D&trk=public_jobs_jserp-result_search-card, MindPal," Bucharest, Bucharest, Romania"," we are seeking a skilled node.js and react developer
+
+if you are passionate about web development and have a solid understanding of both node.js and react, we'd love to know you better!
+
+responsibilities
+
+develop and maintain efficient and scalable web applications using node.js and react
+collaborate with cross-functional teams to define, design, and ship new features
+troubleshoot and resolve software defects and issues
+optimize application performance for maximum speed and scalability
+stay updated with industry trends and emerging technologies
+
+requirements
+
+at least 2 years of professional experience as a node.js and react developer
+strong proficiency in node.js and react frameworks
+solid understanding of javascript, html, and css
+experience with restful apis and third-party libraries
+familiarity with version control systems (e.g., git)
+strong problem-solving and debugging skills
+ability to work independently and collaboratively in a team environment
+excellent communication and interpersonal skills
+
+we offer
+
+b2b contract type
+full-time job
+remote and flexible working hours"
+5, Software Engineer, https://ro.linkedin.com/jobs/view/%E2%80%8B%E2%80%8Bsoftware-engineer-at-microsoft-3910645642?position=6&pageNum=0&refId=xRWY5%2FyVZaJ7%2BE6cABrdsw%3D%3D&trackingId=n4jnXeSbM5%2FZnYpKoYGCyQ%3D%3D&trk=public_jobs_jserp-result_search-card, Microsoft," Bucharest, Bucharest, Romania"," interested in working on cloud-native open-source at a leading hyper-scale cloud? passionate about distributed systems and building high-scale services? azure is looking for engineers with knowledge and interest in building the next generation of cloud native solutions using web assembly and hypervisor isolation. you can help build the future of cloud-native compute not only at microsoft, but also in the broader open-source community!
+
+as a software engineer, you will be responsible for designing, building, and deploying cloud-native solutions. you will be collaborating with other engineers to create designs and getting buy-in from the rest of the company and community, often in the bytecode alliance and the cloud native computing foundation. this opportunity will allow you to collaborate across team and organizational boundaries.
+
+microsoft’s mission is to empower every person and every organization on the planet to achieve more. as employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+responsibilities
+
+partner with product managers, business stakeholders, and users to understand user pain points deeply and create innovative solutions that delight your customers in an agile development environment.
+passionate about distributed systems and building high-scale services.
+enjoys new technological challenges and excels at solving them.
+strive for excellence in everything you do: culture, collaboration, process, tools, design, engineering practices, customer experience, performance, security etc.
+acts as a designated responsible individual (dri) working on-call to monitor system/product feature/service for degradation, downtime, or interruptions and gains approval to restore system/product/service for simple problems.
+remains current in skills by investing time and effort into staying abreast of current developments that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale.
+
+qualifications
+
+required qualifications:
+
+bachelor's degree in computer science, or related technical discipline and 2+ years technical engineering experience with coding in languages including, but not limited to rust, c, c++, c#, java, javascript, or python or equivalent experience.
+experience on projects working with rust.
+experience with hypervisors and secure isolation of workloads.
+
+other requirements
+
+ability to meet microsoft, customer and/or government security screening requirements are required for this role. these requirements include, but are not limited to the following specialized security screenings:
+microsoft cloud background check: this position will be required to pass the microsoft cloud background check upon hire/transfer and every two years thereafter.
+preferred qualification
+
+1+ years of rust experience with open source contributions
+experience with hyper-v, kvm, and / or cloud hypervisor.
+
+microsoft is an equal opportunity employer. consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. if you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations."
+6, Software Engineer, https://ro.linkedin.com/jobs/view/software-engineer-at-microsoft-3918592419?position=7&pageNum=0&refId=xRWY5%2FyVZaJ7%2BE6cABrdsw%3D%3D&trackingId=tp6Pg6rC8GNxzPY0xmqvkg%3D%3D&trk=public_jobs_jserp-result_search-card, Microsoft," Bucharest, Bucharest, Romania"," are you passionate about developing top-notch solutions for azure container instances customers? if so, we have an exciting opportunity for you! azure container instances is at the forefront of innovation, leveraging cutting-edge technologies to deliver exceptional solutions to azure customers.
+
+as a software engineer, on the azure container instances team, you will have the chance to work across various layers of the technology stack. from enhancing the user experience for our customers to building scalable distributed cloud services that handle traffic from customers to azure container instances, your responsibilities will span the entire spectrum. this opportunity will allow you to be involved in designing and implementing solutions that cater to global services operating at a massive scale. collaboration is at the heart of our team, and you will work alongside a diverse group of individuals who embrace challenges, value continuous learning, and thrive in a collaborative environment. additionally, this role offers mentorship opportunities, career growth prospects, and involvement in high-impact areas of the business.
+
+microsoft’s mission is to empower every person and every organization on the planet to achieve more. as employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+responsibilities
+
+works with appropriate stakeholders to determine user requirements for a feature.
+supports identification of dependencies, and the development of design documents for a product feature with oversight.
+with guidance, learns to create and implement code for a product, service, or feature reusing code as applicable.
+assists and learns about breaking down work items into tasks and provides estimation.
+assists in monitoring system/product feature/service for degradation, downtime, or interruptions for simple problems, and recommends actions to restore system/product/service by following the playbook.
+reviews current developments and proactively seeks new knowledge that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale.
+
+qualifications
+
+required qualifications:
+
+bachelor's degree in computer science, or related technical discipline with proven experience coding in languages including, but not limited to, c, c++, c#, java, golang or rust
+or equivalent experience
+other requirements
+
+ability to meet microsoft, customer and/or government security screening requirements are required for this role. these requirements include, but are not limited to the following specialized security screenings:
+microsoft cloud background check: this position will be required to pass the microsoft cloud background check upon hire/transfer and every two years thereafter.
+preferred qualifications
+
+bachelor's degree in computer science
+or related technical field and 4+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript,
+or master's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, golang or rust
+or equivalent experience
+familiarity with cloud computing concepts and technologies, either on azure or another cloud
+experience with containers
+#azurecorejobs
+
+microsoft is an equal opportunity employer. consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. if you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations."

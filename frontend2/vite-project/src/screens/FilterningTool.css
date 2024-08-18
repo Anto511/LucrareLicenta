@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+#cardbox {
+    margin: 0 auto;
+    max-width: 500px;
+}
+
+.upload-area.dragging {
+    background-color: rgba(0, 123, 255, 0.1);
+}
+
+.filter-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 30px;
+}
+
+.filter-section .firstrow,
+.filter-section .secondrow {
+    display: flex;
+    justify-content: center;
+}
+
+.filter-section label {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+
+.filter-section select,
+.filter-section input {
+    padding: 5px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 350px;
+}
+
+.job-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.job-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 4px;
+    width: calc(25% - 20px);
+    box-sizing: border-box;
+    background-color: #f9f9f9;
+}
+
+.job-item h2 {
+    margin: 0 0 10px;
+    color: #555;
+}
+
+.job-item p {
+    margin: 5px 0;
+}
+
+
+@media (max-width: 768px) {
+    .filter-section {
+        padding: 10px;
+    }
+
+    .filter-section label {
+        margin: 5px 0;
+    }
+
+    .job-item {
+        width: 100%;
+    }
+}

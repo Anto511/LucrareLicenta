@@ -1,0 +1,150 @@
+body,
+html,
+#root {
+    height: 120%;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #0b0c10;
+    color: #c5c6c7;
+}
+
+.loginPage {
+    background: rgba(0, 0, 0, 0);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginForm {
+    background-color: #1f2833;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    border-radius: 10px;
+    width: 400px;
+    width: 100%;
+    text-align: center;
+}
+
+.loginForm .logo {
+    width: 100px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.loginForm h2 {
+    color: #66fcf1;
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.form-group {
+    width: 100%;
+}
+
+.form-control {
+    background-color: #0b0c10;
+    border: 1px solid #45a29e;
+    color: #c5c6c7;
+    border-radius: 6px;
+    padding: 15px;
+    font-size: 16px;
+    margin-bottom: 15px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.form-control:focus {
+    background-color: #0b0c10;
+    border-color: #66fcf1;
+    box-shadow: none;
+    color: #c5c6c7;
+}
+
+.btn-outline-primary {
+    color: #66fcf1;
+    border-color: #66fcf1;
+    font-size: 16px;
+    padding: 10px 15px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.btn-outline-primary:hover {
+    background-color: #66fcf1;
+    color: #0b0c10;
+}
+
+.btn-primary {
+    background-color: #66fcf1;
+    border-color: #66fcf1;
+    color: #0b0c10;
+    padding: 15px;
+    font-size: 16px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.btn-primary:hover {
+    background-color: #45a29e;
+    border-color: #45a29e;
+}
+
+.btn-link {
+    color: #66fcf1;
+    text-decoration: none;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.btn-link:hover {
+    text-decoration: underline;
+}
+
+.text-danger {
+    color: #ff4d4d;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.text-warning {
+    color: #ffcc00;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.text-success {
+    color: #28a745;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.bg-image.blur {
+    filter: blur(5px);
+    transition: filter 0.3s ease;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.overlay-content {
+    position: relative;
+    z-index: 10000;
+}
+
+.form-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 100%;
+}
